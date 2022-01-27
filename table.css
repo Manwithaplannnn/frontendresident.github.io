@@ -8,13 +8,13 @@
 
 #test1:hover,#test2:hover,#test3:hover
 {
-    color:aqua;
+    color:mistyrose;
 }
 
 body{
-    background-color:azure;
+    background-color:mistyrose;
 }
 
 .active{
-    color:aqua;
+    color:mistyrose;
 }
